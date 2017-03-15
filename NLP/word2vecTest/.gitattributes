@@ -1,0 +1,6 @@
+opencc filter=lfs diff=lfs merge=lfs -text
+Readme.md filter=lfs diff=lfs merge=lfs -text
+模型 filter=lfs diff=lfs merge=lfs -text
+数据 filter=lfs diff=lfs merge=lfs -text
+源码 filter=lfs diff=lfs merge=lfs -text
+运行结果 filter=lfs diff=lfs merge=lfs -text

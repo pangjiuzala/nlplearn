@@ -1,0 +1,35 @@
+﻿  stdafx.cpp
+  luatest.cpp
+lua5.3.lib(lapi.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(lapi.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lauxlib.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(lauxlib.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lbaselib.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(lbaselib.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lcode.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(lcode.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lcorolib.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(lcorolib.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lctype.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(lctype.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(ldblib.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(ldblib.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(ldebug.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(ldebug.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(ldo.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(ldo.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(ldump.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(ldump.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lfunc.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(lfunc.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lgc.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(lgc.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(linit.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(linit.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(liolib.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(liolib.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(llex.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(llex.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lmathlib.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(lmathlib.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lmem.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(lmem.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(loadlib.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(loadlib.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lobject.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(lobject.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lopcodes.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(lopcodes.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(loslib.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(loslib.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lparser.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(lparser.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lstate.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(lstate.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lstring.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(lstring.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lstrlib.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(lstrlib.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(ltable.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(ltable.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(ltablib.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(ltablib.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(ltm.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(ltm.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lundump.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(lundump.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lutf8lib.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(lutf8lib.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lvm.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(lvm.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lzio.obj) : warning LNK4099: 未找到 PDB“lua5.3.pdb”(使用“lua5.3.lib(lzio.obj)”或在“F:\nlp\luaplay\lua测试\luatest\Debug\lua5.3.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  luatest.vcxproj -> F:\nlp\luaplay\lua测试\luatest\Debug\luatest.exe
